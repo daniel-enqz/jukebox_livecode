@@ -34,5 +34,7 @@ GROUP BY artists.name
 ORDER BY track_count DESC
 LIMIT 5
 
-
--- tables go in plural and columns in singular
+-- THINGS TO REMEMBER:
+-- Tables go in plural and columns in singular
+-- Run your querys with Cntrl + Shift + P
+      -- (There you can search for SQLite and you will see some options, one of them will be Running the queries!!)
